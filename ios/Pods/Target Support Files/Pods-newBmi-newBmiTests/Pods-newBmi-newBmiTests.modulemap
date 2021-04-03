@@ -1,0 +1,6 @@
+module Pods_newBmi_newBmiTests {
+  umbrella header "Pods-newBmi-newBmiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

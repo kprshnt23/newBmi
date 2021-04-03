@@ -1,0 +1,9 @@
+com/newbmi/BuildConfig.java
+ com.newbmi.BuildConfig
+com/newbmi/MainApplication.java
+ com.newbmi.MainApplication
+ com.newbmi.MainApplication$1
+com/newbmi/MainActivity.java
+ com.newbmi.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
